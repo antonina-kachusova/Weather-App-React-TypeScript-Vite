@@ -39,8 +39,8 @@ I also learned how to connect a React application to an external API, work with 
 ## Getting Started
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
+git clone https://github.com/antonina-kachusova/Weather-App-React-TypeScript-Vite.git
+cd Weather-App-React-TypeScript-Vite
 ```
 ### 2. Install dependencies
 ```bash
